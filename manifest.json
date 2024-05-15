@@ -1,8 +1,8 @@
 {
-    "name": "My PWA App",
-    "short_name": "PWA",
+    "name": "SW_Quiz",
+    "short_name": "SW.Quiz",
     "description": "A progressive web app example",
-    "start_url": "/index.html",
+    "start_url": "https://sw-esports.github.io/sw.quiz/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
